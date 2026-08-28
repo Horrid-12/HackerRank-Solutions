@@ -1,0 +1,16 @@
+/*-----------------------------------------------------------------------
+
+Problem Title: Python: Division
+Problem Link: /challenges/python-division
+Author: 1272261921_s
+Language: pypy3
+
+-----------------------------------------------------------------------*/
+
+
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    print (a//b)
+    c = float(a/b)
+    print (c)
