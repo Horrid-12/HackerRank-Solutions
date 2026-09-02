@@ -1,0 +1,13 @@
+/*-----------------------------------------------------------------------
+
+Problem Title: sWAP cASE
+Problem Link: /challenges/swap-case
+Author: 1272261921_s
+Language: pypy3
+
+-----------------------------------------------------------------------*/
+
+
+def swap_case(s):
+    return s.swapcase()
+
