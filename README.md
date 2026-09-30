@@ -1,18 +1,54 @@
 # HackerRank-Solutions
-A collection of my accepted HackerRank solutions. 
 
-# HackerRank Problem Solving
+Collection of Solutions to various HackerRank Problems.
 
-This repository contains my accepted solutions to various competitive programming and algorithmic problems on HackerRank. 
+**43 solutions** across **2 languages**.
 
-### Automation Workflow
-To maintain a continuous log of my problem-solving progress without manual overhead, this repository is completely automated. I utilize a customized Python web-scraping script (via Selenium and Geckodriver) running in the background to automatically fetch my accepted submissions and commit them directly to this repository. [Using This Tool](https://github.com/Horrid-12/Apparate)
+## C++ (13)
 
-### File Structure
-Every automated commit includes a standardized header containing:
-* The exact Problem Title
-* A direct URL link to the original HackerRank problem
-* The language the code was compiled in
+- [A Very Big Sum](<submissions/A Very Big Sum.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/a-very-big-sum>)
+- [Arrays Introduction](<submissions/Arrays Introduction.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/arrays-introduction>)
+- [Basic Data Types](<submissions/Basic Data Types.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/c-tutorial-basic-data-types>)
+- [Class](<submissions/Class.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/c-tutorial-class>)
+- [Compare the Triplets](<submissions/Compare the Triplets.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/compare-the-triplets>)
+- [Conditional Statements](<submissions/Conditional Statements.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else>)
+- [For Loop](<submissions/For Loop.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/c-tutorial-for-loop>)
+- [Input and Output](<submissions/Input and Output.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/cpp-input-and-output>)
+- [Pointer](<submissions/Pointer.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/c-tutorial-pointer>)
+- [Say "Hello, World!" With C++](<submissions/Say "Hello, World!" With C++.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/cpp-hello-world>)
+- [Simple Array Sum](<submissions/Simple Array Sum.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/simple-array-sum>)
+- [Solve Me First](<submissions/Solve Me First.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/solve-me-first>)
+- [Variable Sized Arrays](<submissions/Variable Sized Arrays.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/variable-sized-arrays>)
 
----
-*Regularly updated as I complete new modules and algorithm challenges.*
+## Python (30)
+
+- [Arithmetic Operators](<submissions/Arithmetic Operators.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-arithmetic-operators>)
+- [Array Mathematics](<submissions/Array Mathematics.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-array-mathematics>)
+- [Arrays](<submissions/Arrays.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-arrays>)
+- [Concatenate](<submissions/Concatenate.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-concatenate>)
+- [Find the Runner-Up Score!  ](<submissions/Find the Runner-Up Score!  .py>) — [HackerRank](<https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list>)
+- [Finding the percentage](<submissions/Finding the percentage.py>) — [HackerRank](<https://www.hackerrank.com/challenges/finding-the-percentage>)
+- [Floor, Ceil and Rint](<submissions/Floor, Ceil and Rint.py>) — [HackerRank](<https://www.hackerrank.com/challenges/floor-ceil-and-rint>)
+- [List Comprehensions](<submissions/List Comprehensions.py>) — [HackerRank](<https://www.hackerrank.com/challenges/list-comprehensions>)
+- [Lists](<submissions/Lists.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-lists>)
+- [Loops](<submissions/Loops.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-loops>)
+- [Min and Max](<submissions/Min and Max.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-min-and-max>)
+- [Nested Lists](<submissions/Nested Lists.py>) — [HackerRank](<https://www.hackerrank.com/challenges/nested-list>)
+- [Print Function](<submissions/Print Function.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-print>)
+- [Python If-Else](<submissions/Python If-Else.py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-if-else>)
+- [Python: Division](<submissions/Python: Division.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-division>)
+- [Say "Hello, World!" With Python](<submissions/Say "Hello, World!" With Python.py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-hello-world>)
+- [Set .difference() Operation](<submissions/Set .difference() Operation.py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-set-difference-operation>)
+- [Set .discard(), .remove() & .pop()](<submissions/Set .discard(), .remove() & .pop().py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-set-discard-remove-pop>)
+- [Set .intersection() Operation](<submissions/Set .intersection() Operation.py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-set-intersection-operation>)
+- [Set .union() Operation](<submissions/Set .union() Operation.py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-set-union>)
+- [Shape and Reshape](<submissions/Shape and Reshape.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-shape-reshape>)
+- [String Split and Join](<submissions/String Split and Join.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-string-split-and-join>)
+- [Sum and Prod](<submissions/Sum and Prod.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-sum-and-prod>)
+- [sWAP cASE](<submissions/sWAP cASE.py>) — [HackerRank](<https://www.hackerrank.com/challenges/swap-case>)
+- [Transpose and Flatten](<submissions/Transpose and Flatten.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-transpose-and-flatten>)
+- [Triangle Quest](<submissions/Triangle Quest.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-quest-1>)
+- [Tuples ](<submissions/Tuples .py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-tuples>)
+- [What's Your Name?](<submissions/What's Your Name?.py>) — [HackerRank](<https://www.hackerrank.com/challenges/whats-your-name>)
+- [Write a function](<submissions/Write a function.py>) — [HackerRank](<https://www.hackerrank.com/challenges/write-a-function>)
+- [Zeros and Ones](<submissions/Zeros and Ones.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-zeros-and-ones>)
