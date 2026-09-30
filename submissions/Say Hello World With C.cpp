@@ -8,4 +8,11 @@ Language: cpp
 -----------------------------------------------------------------------*/
 
 
-// Could not fetch code snippet
+#include <iostream>
+#include <cstdio>
+using namespace std;
+
+int main() {
+    printf("Hello, World!");
+    return 0;
+}
