@@ -8,4 +8,8 @@ Language: pypy3
 -----------------------------------------------------------------------'''
 
 
-// Could not fetch code snippet
+if __name__ == '__main__':
+    n = int(input())
+    
+    for i in range(1, 1+n):
+      print(i, end="")
