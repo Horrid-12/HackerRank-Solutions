@@ -8,4 +8,6 @@ Language: pypy3
 -----------------------------------------------------------------------'''
 
 
-// Could not fetch code snippet
+def swap_case(s):
+    return s.swapcase()
+
