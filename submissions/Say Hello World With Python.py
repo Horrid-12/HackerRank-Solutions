@@ -8,4 +8,5 @@ Language: pypy3
 -----------------------------------------------------------------------'''
 
 
-// Could not fetch code snippet
+if __name__ == '__main__':
+    print("Hello, World!")
