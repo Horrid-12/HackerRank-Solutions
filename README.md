@@ -2,9 +2,9 @@
 
 Collection of Solutions to various HackerRank Problems.
 
-**43 solutions** across **2 languages**.
+**51 solutions** across **2 languages**.
 
-## C++ (13)
+## C++ (17)
 
 - [A Very Big Sum](<submissions/A Very Big Sum.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/a-very-big-sum>)
 - [Arrays Introduction](<submissions/Arrays Introduction.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/arrays-introduction>)
@@ -13,27 +13,35 @@ Collection of Solutions to various HackerRank Problems.
 - [Compare the Triplets](<submissions/Compare the Triplets.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/compare-the-triplets>)
 - [Conditional Statements](<submissions/Conditional Statements.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else>)
 - [For Loop](<submissions/For Loop.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/c-tutorial-for-loop>)
+- [Functions](<submissions/Functions.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/c-tutorial-functions>)
 - [Input and Output](<submissions/Input and Output.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/cpp-input-and-output>)
+- [Lower Bound-STL](<submissions/Lower Bound-STL.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/cpp-lower-bound>)
 - [Pointer](<submissions/Pointer.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/c-tutorial-pointer>)
 - [Say "Hello, World!" With C++](<submissions/Say "Hello, World!" With C++.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/cpp-hello-world>)
+- [Sets-STL](<submissions/Sets-STL.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/cpp-sets>)
 - [Simple Array Sum](<submissions/Simple Array Sum.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/simple-array-sum>)
 - [Solve Me First](<submissions/Solve Me First.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/solve-me-first>)
+- [StringStream](<submissions/StringStream.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/c-tutorial-stringstream>)
 - [Variable Sized Arrays](<submissions/Variable Sized Arrays.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/variable-sized-arrays>)
 
-## Python (30)
+## Python (34)
 
 - [Arithmetic Operators](<submissions/Arithmetic Operators.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-arithmetic-operators>)
 - [Array Mathematics](<submissions/Array Mathematics.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-array-mathematics>)
 - [Arrays](<submissions/Arrays.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-arrays>)
 - [Concatenate](<submissions/Concatenate.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-concatenate>)
+- [Dot and Cross](<submissions/Dot and Cross.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-dot-and-cross>)
 - [Find the Runner-Up Score!  ](<submissions/Find the Runner-Up Score!  .py>) — [HackerRank](<https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list>)
 - [Finding the percentage](<submissions/Finding the percentage.py>) — [HackerRank](<https://www.hackerrank.com/challenges/finding-the-percentage>)
 - [Floor, Ceil and Rint](<submissions/Floor, Ceil and Rint.py>) — [HackerRank](<https://www.hackerrank.com/challenges/floor-ceil-and-rint>)
+- [Inner and Outer](<submissions/Inner and Outer.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-inner-and-outer>)
 - [List Comprehensions](<submissions/List Comprehensions.py>) — [HackerRank](<https://www.hackerrank.com/challenges/list-comprehensions>)
 - [Lists](<submissions/Lists.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-lists>)
 - [Loops](<submissions/Loops.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-loops>)
+- [Mean, Var, and Std](<submissions/Mean, Var, and Std.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-mean-var-and-std>)
 - [Min and Max](<submissions/Min and Max.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-min-and-max>)
 - [Nested Lists](<submissions/Nested Lists.py>) — [HackerRank](<https://www.hackerrank.com/challenges/nested-list>)
+- [Polynomials](<submissions/Polynomials.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-polynomials>)
 - [Print Function](<submissions/Print Function.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-print>)
 - [Python If-Else](<submissions/Python If-Else.py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-if-else>)
 - [Python: Division](<submissions/Python: Division.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-division>)
