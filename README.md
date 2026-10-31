@@ -2,7 +2,7 @@
 
 Collection of Solutions to various HackerRank Problems.
 
-**55 solutions** across **2 languages**.
+**59 solutions** across **2 languages**.
 
 ## C++ (17)
 
@@ -24,7 +24,7 @@ Collection of Solutions to various HackerRank Problems.
 - [StringStream](<submissions/StringStream.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/c-tutorial-stringstream>)
 - [Variable Sized Arrays](<submissions/Variable Sized Arrays.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/variable-sized-arrays>)
 
-## Python (38)
+## Python (42)
 
 - [Arithmetic Operators](<submissions/Arithmetic Operators.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-arithmetic-operators>)
 - [Array Mathematics](<submissions/Array Mathematics.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-array-mathematics>)
@@ -49,6 +49,7 @@ Collection of Solutions to various HackerRank Problems.
 - [Re.findall() & Re.finditer()](<submissions/Re.findall() & Re.finditer().py>) — [HackerRank](<https://www.hackerrank.com/challenges/re-findall-re-finditer>)
 - [Re.split()](<submissions/Re.split().py>) — [HackerRank](<https://www.hackerrank.com/challenges/re-split>)
 - [Re.start() & Re.end()](<submissions/Re.start() & Re.end().py>) — [HackerRank](<https://www.hackerrank.com/challenges/re-start-re-end>)
+- [Regex Substitution](<submissions/Regex Substitution.py>) — [HackerRank](<https://www.hackerrank.com/challenges/re-sub-regex-substitution>)
 - [Say "Hello, World!" With Python](<submissions/Say "Hello, World!" With Python.py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-hello-world>)
 - [Set .difference() Operation](<submissions/Set .difference() Operation.py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-set-difference-operation>)
 - [Set .discard(), .remove() & .pop()](<submissions/Set .discard(), .remove() & .pop().py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-set-discard-remove-pop>)
@@ -61,6 +62,9 @@ Collection of Solutions to various HackerRank Problems.
 - [Transpose and Flatten](<submissions/Transpose and Flatten.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-transpose-and-flatten>)
 - [Triangle Quest](<submissions/Triangle Quest.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-quest-1>)
 - [Tuples ](<submissions/Tuples .py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-tuples>)
+- [Validating and Parsing Email Addresses](<submissions/Validating and Parsing Email Addresses.py>) — [HackerRank](<https://www.hackerrank.com/challenges/validating-named-email-addresses>)
+- [Validating phone numbers](<submissions/Validating phone numbers.py>) — [HackerRank](<https://www.hackerrank.com/challenges/validating-the-phone-number>)
+- [Validating Roman Numerals](<submissions/Validating Roman Numerals.py>) — [HackerRank](<https://www.hackerrank.com/challenges/validate-a-roman-number>)
 - [What's Your Name?](<submissions/What's Your Name?.py>) — [HackerRank](<https://www.hackerrank.com/challenges/whats-your-name>)
 - [Write a function](<submissions/Write a function.py>) — [HackerRank](<https://www.hackerrank.com/challenges/write-a-function>)
 - [Zeros and Ones](<submissions/Zeros and Ones.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-zeros-and-ones>)
