@@ -2,7 +2,7 @@
 
 Collection of Solutions to various HackerRank Problems.
 
-**51 solutions** across **2 languages**.
+**55 solutions** across **2 languages**.
 
 ## C++ (17)
 
@@ -24,7 +24,7 @@ Collection of Solutions to various HackerRank Problems.
 - [StringStream](<submissions/StringStream.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/c-tutorial-stringstream>)
 - [Variable Sized Arrays](<submissions/Variable Sized Arrays.cpp>) — [HackerRank](<https://www.hackerrank.com/challenges/variable-sized-arrays>)
 
-## Python (34)
+## Python (38)
 
 - [Arithmetic Operators](<submissions/Arithmetic Operators.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-arithmetic-operators>)
 - [Array Mathematics](<submissions/Array Mathematics.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-array-mathematics>)
@@ -34,6 +34,7 @@ Collection of Solutions to various HackerRank Problems.
 - [Find the Runner-Up Score!  ](<submissions/Find the Runner-Up Score!  .py>) — [HackerRank](<https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list>)
 - [Finding the percentage](<submissions/Finding the percentage.py>) — [HackerRank](<https://www.hackerrank.com/challenges/finding-the-percentage>)
 - [Floor, Ceil and Rint](<submissions/Floor, Ceil and Rint.py>) — [HackerRank](<https://www.hackerrank.com/challenges/floor-ceil-and-rint>)
+- [Group(), Groups() & Groupdict()](<submissions/Group(), Groups() & Groupdict().py>) — [HackerRank](<https://www.hackerrank.com/challenges/re-group-groups>)
 - [Inner and Outer](<submissions/Inner and Outer.py>) — [HackerRank](<https://www.hackerrank.com/challenges/np-inner-and-outer>)
 - [List Comprehensions](<submissions/List Comprehensions.py>) — [HackerRank](<https://www.hackerrank.com/challenges/list-comprehensions>)
 - [Lists](<submissions/Lists.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-lists>)
@@ -45,6 +46,9 @@ Collection of Solutions to various HackerRank Problems.
 - [Print Function](<submissions/Print Function.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-print>)
 - [Python If-Else](<submissions/Python If-Else.py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-if-else>)
 - [Python: Division](<submissions/Python: Division.py>) — [HackerRank](<https://www.hackerrank.com/challenges/python-division>)
+- [Re.findall() & Re.finditer()](<submissions/Re.findall() & Re.finditer().py>) — [HackerRank](<https://www.hackerrank.com/challenges/re-findall-re-finditer>)
+- [Re.split()](<submissions/Re.split().py>) — [HackerRank](<https://www.hackerrank.com/challenges/re-split>)
+- [Re.start() & Re.end()](<submissions/Re.start() & Re.end().py>) — [HackerRank](<https://www.hackerrank.com/challenges/re-start-re-end>)
 - [Say "Hello, World!" With Python](<submissions/Say "Hello, World!" With Python.py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-hello-world>)
 - [Set .difference() Operation](<submissions/Set .difference() Operation.py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-set-difference-operation>)
 - [Set .discard(), .remove() & .pop()](<submissions/Set .discard(), .remove() & .pop().py>) — [HackerRank](<https://www.hackerrank.com/challenges/py-set-discard-remove-pop>)
